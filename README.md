@@ -1,0 +1,1 @@
+# Project-Lixeira-Inteligente-
