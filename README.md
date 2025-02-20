@@ -1,5 +1,6 @@
 ## Lixeira Inteligente - Controle via Sensor HC-SR04 e MQTT ##
-Objetivo
+### Objetivo
+
 Este projeto tem como finalidade o monitoramento do nível de lixo em uma lixeira utilizando um sensor ultrassônico HC-SR04, um sistema de sinalização com LEDs e um buzzer, e a comunicação via MQTT para envio de alertas.
 
 ### Componentes Utilizados :
